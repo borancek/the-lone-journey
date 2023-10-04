@@ -1,1 +1,1 @@
-# the-lone-journey
+# the-lone-journey-game
