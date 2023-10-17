@@ -4,4 +4,5 @@ This project was successfully undertaken during the 'Multi-Platform Game Develop
 
 Central to the gameplay narrative is the presence of a concealed portal, a crucial element that demands discovery to bring the game to its conclusion. However, the portal's functionality remains dormant until its requisite components are assembled. Thus, the onus rests upon the player to undertake a thorough exploration of the expansive island terrain, seeking out and securing a total of four necessary parts. Through this endeavor, the player unlocks the potential of the portal, illuminating the path to freedom.
 <br>
+<br>
 Access the game through this link: https://borancek7.itch.io/thelonejourney
