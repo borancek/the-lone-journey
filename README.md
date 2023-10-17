@@ -1,4 +1,4 @@
-This project was conducted between September 2022 - January 2023
+This project was conducted between September 2022 - January 2023.
 # the-lone-journey-game
 This project was successfully undertaken during the 'Multi-Platform Game Development’ module. After four months of dedication, the project was awarded the classification of a First-Class standard, and achieved an overall score of 74.7% (Grade A). ‘The Lone Journey’ marks the entry in the series, centering around the theme of survival and the pursuit of escape from the vast island.
 
